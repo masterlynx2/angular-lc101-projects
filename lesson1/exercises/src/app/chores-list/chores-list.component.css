@@ -1,0 +1,9 @@
+h3,li{
+    color: red;
+
+}
+
+li{
+    text-decoration: underline;
+    font-style: italic;
+}
